@@ -8,4 +8,8 @@ O sistema foi criado com o intuito de praticar tecnologias voltadas para o Front
 
 # Atividades Realizadas
 
-* 
+*
+
+# Telas
+
+## Tela Principal
